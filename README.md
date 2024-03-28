@@ -10,4 +10,4 @@ StructGenie is a Python package developed as part of a collaborative research pr
 - **Voronoi Tessellation**: Analyze spatial relationships and properties of atoms within proteins.
 - **NMR Parameter Calculations**: Compute NMR parameters for comparison with experimental data.
 
-CHANGE
+CHANGE -- 2
